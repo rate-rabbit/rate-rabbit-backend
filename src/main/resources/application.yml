@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: raterabbit
+mongodb:
+  uri: mongodb://localhost:27017/raterabbit
